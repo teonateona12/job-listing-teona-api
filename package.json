@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "job-listing-teona-api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniAvazneli/job-listing-teona-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniAvazneli/job-listing-teona-api/issues"
+  },
+  "homepage": "https://github.com/AniAvazneli/job-listing-teona-api#readme",
+  "description": ""
+}
